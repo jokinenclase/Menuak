@@ -10,9 +10,7 @@ public class menuagit {
 		System.out.println("3. opcion3");
 		System.out.println("4. opcion4");
 		
-		segundo
-	ewrf dsfgdsfgsdf
-	
+
 	
 	}
 
